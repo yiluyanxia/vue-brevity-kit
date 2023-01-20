@@ -24,7 +24,7 @@ n. 简洁；简炼；短暂
 有一定基础的人，可以了解与你想法不同的人的代码，也可以帮我找 Bug。
 
 
-# 技术栈
+## 技术栈
 
 本项目主要使用了 vite vue typescript 等技术  
 UI 框架使用了 ant-design-vue  
@@ -57,5 +57,5 @@ npm run build
 npm run lint
 ```
 
-# License
+## License
 [MIT](https://opensource.org/licenses/MIT)
