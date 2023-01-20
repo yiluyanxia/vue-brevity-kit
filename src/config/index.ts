@@ -1,0 +1,1 @@
+export const SALT = 'bb87c428f080606c483ac876a501260df6701633'

@@ -1,0 +1,17 @@
+export const TOKEN_NAME = 'BREVITY_USER_TOKEN'
+export const USER_TYPE = 'BREVITY_USER_TYPE'
+export const CSRF = {
+    enable: true,
+    cookieName: 'BREVITY_CSRF_TOKEN',
+    headerName: 'x-csrf-token'
+}
+export const LOCALE_KEY = 'BREVITY_LOCALE'
+export const DISPLAY_KEY = 'BREVITY_DISPLAY'
+export const THEME_KEY = 'BREVITY_THEME'
+export const CUSTON_THEME_KEY = 'BREVITY_CUSTON_THEME'
+export const LIGHT_MENU_KEY = 'BREVITY_LIGHT_MENU'
+export const COLUMNS_MENU_KEY = 'BREVITY_COLUMNS_MENU'
+export const COLUMNS_MENU_TITLE_KEY = 'BREVITY_COLUMNS_MENU_TITLE'
+export const COLUMNS_MENU_TOOLTIP_KEY = 'BREVITY_COLUMNS_MENU_TOOLTIP'
+export const PASSWORD_KEY = 'BREVITY_PASSWORD'
+export const LOCK_KEY = 'BREVITY_LOCK'

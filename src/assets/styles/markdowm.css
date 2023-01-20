@@ -1,0 +1,271 @@
+.article-content h1,
+.article-content h2,
+.article-content h3,
+.article-content h4,
+.article-content h5,
+.article-content h6 {
+    line-height: 1.1em;
+    margin: 1.1em 0;
+}
+
+.article-content h1 {
+    font-size: 1.7em;
+    line-height: 1.5;
+}
+
+.article-content h2 {
+    font-size: 1.5em;
+}
+
+.article-content h3 {
+    font-size: 1.17em;
+}
+
+.article-content h4 {
+    font-size: 1em;
+}
+
+.article-content h5 {
+    font-size: 0.83em;
+}
+
+.article-content p {
+    line-height: 1.6em;
+    margin: 1.6em 0;
+}
+
+.article-content a {
+    color: #be7e4a;
+}
+
+.article-content ol {
+    list-style: decimal outside;
+    padding-left: 2em;
+}
+
+.article-content img {
+    max-width: 100%;
+    display: block;
+    margin: auto;
+}
+
+.article-gallery-img {
+    display: none;
+    max-width: 100%;
+}
+
+.article-gallery-img img {
+    display: block;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+.article-content .pullquote {
+    text-align: left;
+    width: 45%;
+    margin: 0;
+}
+
+.article-content .pullquote.left {
+    margin-left: 0.5em;
+    margin-right: 1em;
+    float: left
+}
+
+.article-content .pullquote.right {
+    margin-right: 0.5em;
+    margin-left: 1em;
+    float: right
+}
+
+.article-content hr,
+.widget hr {
+    border: 1px dashed #ddd;
+}
+
+.article-content strong,
+.widget strong {
+    font-weight: bold;
+}
+
+.article-content em,
+.widget em,
+.article-content cite,
+.widget cite {
+    font-style: italic;
+}
+
+.article-content sup,
+.widget sup,
+.article-content sub,
+.widget sub {
+    font-size: 0.75em;
+    line-height: 0;
+    position: relative;
+    vertical-align: baseline;
+}
+
+.article-content sup,
+.widget sup {
+    top: -0.5em;
+}
+
+.article-content sub,
+.widget sub {
+    bottom: -0.2em;
+}
+
+.article-content small,
+.widget small {
+    font-size: 0.85em;
+}
+
+.article-content acronym,
+.widget acronym,
+.article-content abbr,
+.widget abbr {
+    border-bottom: 1px dotted;
+}
+
+.article-content ul,
+.article-content ol,
+.article-content dl {
+    line-height: 1.6em;
+    padding-left: 2em;
+}
+
+.article-content ul ul,
+.article-content ol ul,
+.article-content ul ol,
+.article-content ol ol {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.article-content ul {
+    list-style: disc;
+    padding-left: 2em;
+}
+
+.article-content dt {
+    font-weight: bold;
+}
+
+.article-content:before,
+.article-content:after {
+    content: "";
+    display: table;
+}
+
+.article-content:after {
+    clear: both;
+}
+
+.article-content p,
+.article-content table {
+    line-height: 1.6em;
+    margin: 1.6em 0;
+}
+
+.article-content h1,
+.article-content h2,
+.article-content h3,
+.article-content h4,
+.article-content h5,
+.article-content h6 {
+    font-weight: bold;
+}
+
+.article-content h1,
+.article-content h2,
+.article-content h3,
+.article-content h4,
+.article-content h5,
+.article-content h6 {
+    line-height: 1.1em;
+    margin: 1.1em 0;
+}
+
+.article-content ul,
+.article-content ol,
+.article-content dl {
+    margin-top: 1.6em;
+    margin-bottom: 1.6em;
+}
+
+.article-content img,
+.article-content video {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: auto;
+}
+
+.article-content iframe {
+    border: none;
+}
+
+.article-content table {
+    width: 100%;
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+.article-content th {
+    font-weight: bold;
+    border-bottom: 3px solid #ddd;
+    padding-bottom: 0.5em;
+}
+
+.article-content td {
+    border-bottom: 1px solid #ddd;
+    padding: 10px 0;
+}
+
+.article-content blockquote {
+    font-size: 1.4em;
+    margin: 1.6em 20px;
+    text-align: center;
+}
+
+.article-content blockquote footer {
+    font-size: 14px;
+    margin: 1.6em 0;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.article-content blockquote footer cite:before {
+    content: "—";
+    padding: 0 0.5em;
+}
+
+.article-content .caption {
+    color: #999;
+    display: block;
+    font-size: 0.9em;
+    margin-top: 0.5em;
+    position: relative;
+    text-align: center;
+}
+
+.article-content .video-container {
+    position: relative;
+    padding-top: 56.25%;
+    height: 0;
+    overflow: hidden;
+}
+
+.article-content .video-container iframe,
+.article-content .video-container object,
+.article-content .video-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    margin-top: 0;
+}
+
+.article-gallery-img:first-child {
+    display: block
+}
