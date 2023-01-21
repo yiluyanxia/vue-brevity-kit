@@ -1,5 +1,15 @@
 # vue-brevity-kit
 
+## 预览
+
+[https://yiluyanxia.github.io](https://yiluyanxia.github.io/vue-brevity-kit/dist/#/login)
+
+## 部分截图
+
+![截图](./doc/screenshot_2.png)
+
+![截图](./doc/screenshot_3.png)
+
 ## 前言
 
 新的一年，加入开源，这是计划的一部分。
