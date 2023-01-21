@@ -4,6 +4,8 @@
 
 [https://yiluyanxia.github.io](https://yiluyanxia.github.io/vue-brevity-kit/dist/#/login)
 
+输入任意账号和密码即可登录，值得注意的是如果要测试锁屏功能，需要在心里记住密码哦
+
 ## 部分截图
 
 ![截图](./doc/screenshot_2.png)
